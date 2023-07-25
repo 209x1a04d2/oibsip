@@ -1,0 +1,132 @@
+.min-h-screen {
+    min-height: 100vh;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.navbar {
+    display: flex;
+    height: 67px;
+}
+
+.navbar li {
+    list-style: none;
+    margin: 0 12px;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.font-bold {
+    font-weight: bolder;
+}
+
+.my-1 {
+    margin-top: 40px;
+    margin-bottom: 13px;
+    text-align: center;
+    padding-left: 200px;
+    color: brown;
+}
+
+.px-2 {
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-bottom: 13px;
+    margin-bottom: 12px;
+}
+
+.text-blue {
+    color: rgb(229, 100, 14);
+}
+
+.btn {
+    padding: 4px 12px;
+    border: 2px solid rgb(229, 100, 14);
+    border-radius: 12px;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(229, 100, 14);
+}
+
+.overflow-hidden {
+    overflow: hidden;
+}
+
+.text-center {
+    text-align: center;
+    font-size: 2rem;
+    color: brown;
+}
+
+.my-2 {
+    margin-top: 40px;
+    margin-bottom: 13px;
+    text-align: center;
+}
+
+.box h1 {
+    font-size: 1.5rem;
+    padding: 12px 10px;
+}
+
+.row {
+    font-size: 2 rem;
+    padding: 5px, 5px;
+}
+
+table,
+td {
+
+    padding: 32px, 32px;
+    text-align: center;
+}
+
+.foot {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.topright {
+    text-align: center;
+
+}
+
+.im1 {
+    padding-left: 300px;
+    padding-right: 400px;
+    padding-top: 70px;
+}
+
+.para {
+    text-align: center;
+    padding-left: 100px;
+}
+
+.plans {
+    color: brown;
+}
